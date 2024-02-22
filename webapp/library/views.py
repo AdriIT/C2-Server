@@ -6,7 +6,6 @@ from django.contrib import messages
 from django.views import generic
 from django.views.generic.list import ListView
 from .models import Device
-from .server import *
 
 # Create your views here
 class DeviceListView(generic.ListView):
