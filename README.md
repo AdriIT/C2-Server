@@ -25,5 +25,10 @@ docker run --rm -dp 6379:6379 redis:7 --> run redis container<br>
 {path_to_directory}/webapp$ python3 manage.py runserver --> run DAPHNE server<br>
 python3 client.py --> run agent<br>
 
-you will need to login as administrator inside http://localhost:8000/admin/
+Create you admin running "python manage.py createsuperuser"<br>
+You will need to login as administrator inside http://localhost:8000/admin/<br>
+Add a user specifying username and password <br>
+http://localhost:8000/ --> login --> select device test 2<br>
+Run python3 client.py<br>
+Send commands in chat <br>
 
