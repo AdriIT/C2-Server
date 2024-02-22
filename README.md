@@ -28,7 +28,7 @@ QUICK START <br>
 Create you admin running "python manage.py createsuperuser"<br>
 You will need to login as administrator inside http://localhost:8000/admin/<br>
 Add a user specifying username and password <br>
-`http://localhost:8000/login` --> login using credentials --> select device test 2 (client.py is supposed to work on test2 chatroom, but you can change the code at line 240* to switch chat room) <br>
+http://localhost:8000/login --> login using credentials --> select device test 2 (client.py is supposed to work on test2 chatroom, but you can change the code at line 240* to switch chat room) <br>
 Run `python3 client.py`<br>
 Send commands in chat, use `help` for a list of commands<br>
 
