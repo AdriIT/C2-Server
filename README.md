@@ -1,4 +1,4 @@
-ATTENTION: C2 is not implemented to work on different machine, yet. Use this on your own device.<br>
+ATTENTION: C2 is not YET implemented to work on different machines, so use ur own machine as a test.<br>
 
 SERVER/USER DEPENDANCIES <br>
 install virtual environment<br>
