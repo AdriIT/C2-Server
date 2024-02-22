@@ -28,7 +28,7 @@ python3 client.py --> run agent<br>
 Create you admin running "python manage.py createsuperuser"<br>
 You will need to login as administrator inside http://localhost:8000/admin/<br>
 Add a user specifying username and password <br>
-http://localhost:8000/ --> login --> select device test 2<br>
+http://localhost:8000/login --> login using credentials --> select device test 2<br>
 Run python3 client.py<br>
 Send commands in chat <br>
 
