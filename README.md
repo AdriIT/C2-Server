@@ -30,5 +30,5 @@ You will need to login as administrator inside http://localhost:8000/admin/<br>
 Add a user specifying username and password <br>
 `http://localhost:8000/login` --> login using credentials --> select device test 2<br>
 Run `python3 client.py`<br>
-Send commands in chat, start using `help` for a list of commands<br>
+Send commands in chat, use `help` for a list of commands<br>
 
