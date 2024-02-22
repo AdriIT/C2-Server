@@ -1,7 +1,7 @@
 ATTENTION: C2 is not implemented to work on different machine, yet. Use this on your own device.
 
 SERVER/USER DEPENDANCIES 
-install virtual environment
+install virtual environment\n
 activate your virtual environment
 python -m pip install -U 'channels[daphne]'  --> install channels and daphne server
 
