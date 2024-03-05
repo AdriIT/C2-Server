@@ -12,6 +12,7 @@ activate your virtual environment<br>
 We will need a docker container so install docker in your environment<br>
 `python3 -m pip install channels_redis`  -->  install this to let channels adapt to redis <br>
 `docker run --rm -p 6379:6379 redis:7` --> redis backing store<br>
+##
 
 AGENT CLIENT DEPENDANCIES<br>
 Install these utils on the agent's machine:<br>
