@@ -1,3 +1,7 @@
+##DISCLAIMER##
+This project is developed for educational purposes as part of a university assignment and is not intended for any malicious use 
+####
+
 ATTENTION: C2 is not YET implemented to work on different machines, so use ur own machine as a test.<br>
 
 SERVER/USER DEPENDANCIES <br>
