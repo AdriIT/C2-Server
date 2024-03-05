@@ -23,7 +23,7 @@ Install these utils on the agent's machine:<br>
 
 
 !!! Since im working on a way to set sudo password, some command might not be fully working !!!<br>
-
+Hence, use this `echo 'password' | sudo -S` __`command`__
 
 QUICK START <br>
 `docker run --rm -dp 6379:6379 redis:7` --> run redis container<br>
